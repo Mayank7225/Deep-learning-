@@ -1,0 +1,2 @@
+# Deep-learning-
+This repository is being created for the purpose of learning understanding the various deep learning algorithms During the course of our instructor dr Andrew Ng.The store purpose of this repository is to have better understanding and to enlighten others as well in the domain of deep learning and related concepts.There will be regular updates regarding all the lectures which I'll be seeing and then implementing them on my side.
